@@ -14,7 +14,7 @@ function App() {
 		<div class="w-100 h-100 d-flex justify-content-center align-items-center">
 				<img src={logo} className="App-logo" alt="logo" />
 			<div class="text-left">
-				<h1>Hello, world!i 2</h1>
+				<h1>Hello, world! 3</h1>
 				<h2 class="text-secondary">Congratulations. React is running on CodeCaps!</h2>
 			</div>
 		</div>
