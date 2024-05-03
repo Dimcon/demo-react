@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import cclogo from './logo-code-capsule-primary.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 <link rel="stylesheet"
@@ -14,6 +15,7 @@ function App() {
 		<div class="w-100 h-100 d-flex justify-content-center align-items-center">
 				<img src={logo} className="App-logo" alt="logo" />
 			<div class="text-left">
+				<img src={cclogo} className="App-logo" style={{width: 200}} alt="logo" />
 				<h1>Hello, world!</h1>
 				<h2 class="text-secondary">Congratulations. React is running on CodeCaps!</h2>
 			</div>
